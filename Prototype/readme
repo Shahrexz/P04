@@ -1,1 +1,55 @@
+Project: Manzil - P04
+
+Team:
+Muhammad Usman Arshid (ID: 25100320)
+Muhammad Mehdi (ID: 25100313)
+Umer Inayat (ID: 24100199)
+Shahrez Faisal (ID: 25100235)
+Omar Ibne Sajjad (ID: 25100015)
+
+------------------------------------------------------------------------------------------------
+
+LIST OF REQUIREMENTS COMPLETED IN THE PROTOTPYE
+
+The following use cases and features have been implemented for the prototype phase:
+
+
+CRUD of User Profiles: Includes user authentication and authorization for secure access.
+Destination Viewing: Allows customers to view information about various destinations within Lahore.
+
+Map Integration: Integrated Google Maps and Reviews APIs to display location details and existing reviews.
+
+CRUD for Reviews: Users can add, view, update, and delete reviews for destinations through Manzil.
+
+
+
+------------------------------------------------------------------------------------------------
+
+HOW TO ACCESS THE PROTOTYPE
+
+Online Access: The prototype is available at:
+URL: https://github.com/Shahrexz/P04
+URL: https://test-production-5b7f.up.railway.app/login
+
+
+User Credentials:
+
+Signup using your own email and password, every user is a standard user
+Standard User:
+Email: user@example.com
+Password: userpassword
+
+
+------------------------------------------------------------------------------------------------
+
+
+
+ADDITIONAL INFORMATION
+
+Prototype Focus: It demonstrates the core functionalities of Manzil excluding Hotel and car rental system. Otherwsie -> account management, location viewing, and review management.
+
+We only have a standard user for now and no Admin Access. As we will implement that later
+
+
+
 
