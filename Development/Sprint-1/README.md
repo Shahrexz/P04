@@ -62,11 +62,11 @@ Omar Ibne Sajjad (ID: 25100015)
 
 HOW TO ACCESS
 
-Online Access: The prototype is available at:
+Online Access:
 
-URL: https://github.com/Shahrexz/P04
+code URL: https://github.com/Shahrexz/P04
 
-backend URL: https://test-production-5b7f.up.railway.app/login
+backend URL: https://test-production-5b7f.up.railway.app
 
 
 
