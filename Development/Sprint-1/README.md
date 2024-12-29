@@ -3,6 +3,17 @@
 **MANZIL** is a React Native mobile application designed to guide tourists in finding places, exploring reviews, and booking hotels for their stay. The application provides a seamless user experience for both customers and hotel management staff.
 
 
+Project: Manzil - P04
+
+Team:
+Muhammad Usman Arshid (ID: 25100320)
+Muhammad Mehdi (ID: 25100313)
+Umer Inayat (ID: 24100199)
+Shahrez Faisal (ID: 25100235)
+Omar Ibne Sajjad (ID: 25100015)
+
+------------------------------------------------------------------------------------------------
+
 
 
 ---
