@@ -66,7 +66,7 @@ Online Access:
 
 code URL: https://github.com/Shahrexz/P04
 
-backend URL: https://test-production-5b7f.up.railway.app
+backend URL: https://manzil-sprint1-production.up.railway.app
 
 
 
