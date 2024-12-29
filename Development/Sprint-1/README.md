@@ -2,6 +2,9 @@
 
 **MANZIL** is a React Native mobile application designed to guide tourists in finding places, exploring reviews, and booking hotels for their stay. The application provides a seamless user experience for both customers and hotel management staff.
 
+
+
+
 ---
 
 ## **Features**
@@ -43,6 +46,27 @@
    - Integrated **Socket.IO** for real-time updates and interactions between customers and hotel management staff.
 
 ---
+
+------------------------------------------------------------------------------------------------
+
+HOW TO ACCESS THE PROTOTYPE
+
+Online Access: The prototype is available at:
+URL: https://github.com/Shahrexz/P04
+backend URL: https://test-production-5b7f.up.railway.app/login
+
+
+User Credentials:
+
+Signup using your own email and password, every user is a standard user
+Standard User:
+Email: user@example.com
+Password: userpassword
+
+
+------------------------------------------------------------------------------------------------
+
+
 
 ## **Technologies Used**
 - **Frontend:** React Native
