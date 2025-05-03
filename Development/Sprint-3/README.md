@@ -71,4 +71,3 @@ The **Hotel Admin Panel** is available at:
 We are working on integrating our **own car renting system** by onboarding individual riders.  
 - Users will be able to request a ride.
 - Available riders will receive the offer based on their availability.  
-
